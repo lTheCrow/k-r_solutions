@@ -1,0 +1,3 @@
+Ctrl+C 
+\n
+a  a  a\n
