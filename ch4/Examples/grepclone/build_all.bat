@@ -1,0 +1,1 @@
+gcc grepclone.c get_line.c strindex.c -I includes -o grepclone.exe
