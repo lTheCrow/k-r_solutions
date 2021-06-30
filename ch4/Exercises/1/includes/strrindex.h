@@ -1,2 +1,1 @@
-/*int kmp_matcher(char t[], char p[]);*/
-int strrindex(const char source[], const char searchfor[]);
+int strrindex(const char text[], const char pattern[]);

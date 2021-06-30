@@ -1,0 +1,1 @@
+gcc main.c strrindex.c -I includes -o strrindex

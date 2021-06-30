@@ -11,10 +11,10 @@ char pattern[MAX_TEXT] = "orl";
 
 /* main: a testing function for strrindex */
 int main(void)
-{
+{        
 	char text[MAX_TEXT] = "Hello world";
 	int index;
-	index = strrindex(text, pattern);
+	index = kmp_matcher(text, pattern);
 
 	if (index != -1) {
 		printf("Pattern occurs with shift %d\n", index);
