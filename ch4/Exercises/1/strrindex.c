@@ -3,7 +3,7 @@
 
 #include <stdlib.h>
 
-int *compute_prefix(char p[]) {
+int *compute_prefix(const char p[]) {
 	int m = strlen(p);                              /* pattern length */
 	int *lps = (int *) malloc(m * sizeof(int));     /* allocate memory */
 	lps[0] = 0;                                     /* lps[0] is always 0 */
