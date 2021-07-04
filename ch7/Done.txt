@@ -1,0 +1,8 @@
+7.1 Standard Input and Output		--
+7.2 Formatted Output - printf		--
+7.3 Variable-length Argument Lists	--
+7.4 Formatted Input - scanf		--
+7.5 File Access				--
+7.6 Error Handling - stderr and exit	--
+7.7 Line Input and Output		--
+7.8 Miscellaneous Functions		--

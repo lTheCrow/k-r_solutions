@@ -1,0 +1,9 @@
+6.1 Basics of Structures	--
+6.2 Structures and Functions	--
+6.3 Arrays of Structures	--
+6.4 Pointers to Structures	--
+6.5 Self-referential Structures	--
+6.6 Table Lookup		--
+6.7 Typedef			--
+6.8 Unions			--
+6.9 Bit-fields			--
