@@ -4,7 +4,7 @@
 #define MAXLINE         100
 
 double _atof(char s[]);
-int atoi(char s[]);
+int _atoi(char s[]);
 int _getline(char line[], int max);
 
 #endif /* CONV_H */
