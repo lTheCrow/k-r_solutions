@@ -47,7 +47,7 @@
 <h3>Chapter 4 - Functions and Program Structure</h3>
 <ul>
 	<li><pre>4.1 Basics of Functions					-- OK</pre></li> 
-	<li><pre>4.2 Functions Returning Non-integers			--</pre></li> 
+	<li><pre>4.2 Functions Returning Non-integers			-- OK</pre></li> 
 	<li><pre>4.3 External Variables					--</pre></li>
 	<li><pre>4.4 Scope Rules						--</pre></li>
 	<li><pre>4.5 Header Files					--</pre></li>
