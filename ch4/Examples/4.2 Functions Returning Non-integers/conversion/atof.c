@@ -1,5 +1,4 @@
 #include <ctype.h>
-#include "conv.h"
 
 /* atof: converts the string s to its double-precision 
          floating-point equivalent */
