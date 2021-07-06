@@ -1,4 +1,4 @@
-CFLAGS = -I includes
+CFLAGS = -I includes -m32
 OUT = atof
 WINC = WINC
 LINC = LINC
