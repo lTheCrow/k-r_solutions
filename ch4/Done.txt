@@ -1,5 +1,5 @@
 4.1 Basics of Functions			-- OK
-4.2 Functions Returning Non-integers	-- 
+4.2 Functions Returning Non-integers	-- OK
 4.3 External Variables			--
 4.4 Scope Rules				--
 4.5 Header Files			--
