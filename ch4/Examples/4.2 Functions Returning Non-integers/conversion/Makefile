@@ -13,15 +13,15 @@ endif
 
 
 all: main.o getline.o atof.o 
-	$(CC) main.o getline.o atof.o -o $(OUT)
+	@$(CC) main.o getline.o atof.o -o $(OUT)
 
-$(OBJDIR)/%.o: %.c
-	$(CC) $(CFLAGS) -c $< -o $@
+%.o: %.c
+	@$(CC) $(CFLAGS) -c $< -o $@
 
 $(WINC):
-	del *.o
-	del $(OUT).exe
+	@del *.o
+	@del $(OUT).exe
 
 $(LINC):
-	rm *.o
-	rm $(OUT)
+	@rm *.o
+	@rm $(OUT)
